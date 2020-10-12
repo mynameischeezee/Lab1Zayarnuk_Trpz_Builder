@@ -1,6 +1,7 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1Zayarnuk_Trpz_Builder", "Lab1Zayarnuk_Trpz_Builder\Lab1Zayarnuk_Trpz_Builder.csproj", "{25E5FC04-55C6-416E-9120-DFAEA549DCE9}"
 EndProject
 Global
@@ -9,9 +10,15 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Debug|anycpu.Build.0 = Debug|anycpu
-		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Release|anycpu.ActiveCfg = Release|anycpu
-		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Release|anycpu.Build.0 = Release|anycpu
+		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{25E5FC04-55C6-416E-9120-DFAEA549DCE9}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C929A74C-8DB3-4406-B9A4-29DC2D43E40E}
 	EndGlobalSection
 EndGlobal
